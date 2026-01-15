@@ -21,7 +21,7 @@
 ---
 
 ### 📫 Contact
-- Blog: https://blog.grushtom.com  
-- GitHub: @GrushTom  
+- Blog: [https://blog.grushtom.com](https://blog.grushtom.com)
+- GitHub: <@GrushTom>  
 
 > Stay curious. Build things that last.
