@@ -9,9 +9,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;duration=3200&amp;pause=1400&amp;color=38B2AC&amp;center=true&amp;vCenter=true&amp;width=440&amp;height=50&amp;lines=Less+but+Better.;Stay+curious.;Build+things+that+last." alt="Less but Better. Stay curious. Build things that last." />
 
 <p>
-  <a href="https://blog.grushtom.com"><img src="https://img.shields.io/badge/Blog-grushtom.com-0F766E?style=flat-square" alt="访问我的博客" /></a>
-  <a href="https://github.com/GrushTom"><img src="https://img.shields.io/badge/GitHub-GrushTom-334155?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub · GrushTom" /></a>
-  <a href="https://space.bilibili.com/306384186"><img src="https://img.shields.io/badge/Bili-grushtom.com-0F766E?style=flat-square" alt="访问我的B站" /></a>
+  <a href="https://blog.grushtom.com"><img src="https://img.shields.io/badge/Blog-grushtom.com-007acc?style=flat-square" alt="访问我的博客" /></a>
+  <a href="https://github.com/GrushTom" target="_blank"><img src="https://img.shields.io/badge/GitHub-GrushTom-0F766E?style=flat-square&logo=github&logoColor=white&labelColor=181717" height="20"/></a>
+  <a href="https://space.bilibili.com/306384186" target="_blank"><img src="https://img.shields.io/badge/Bilibili-GrushTom_-4A446C?style=flat-square&logo=bilibili&logoColor=white&labelColor=FB7299" height="20"/></a>
 </p>
 
 </div>
